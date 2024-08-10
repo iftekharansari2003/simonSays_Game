@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    background:linear-gradient(to right, hsla(214, 100%, 90%, 100%) 0%, hsla(214, 100%, 90%, 0%) 20%, hsla(214, 100%, 90%, 0%) 50%, hsla(214, 100%, 90%, 0%) 80%, hsla(214, 100%, 90%, 100%) 100%) ;
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 2.0rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+
+}
+.purple{
+    background-color: purple;
+    opacity: 0.4;
+}
+.red{
+    background-color: red;
+    opacity: 0.4;
+}
+.yellow{
+    background-color: yellow;
+    opacity: 0.4;
+}
+.green{
+    background-color: green;
+    opacity: 0.4;
+}
+
+.flash{
+    opacity: 1;
+}
+
+.bgcolor{
+    background-color: red;
+    background: red;
+}
