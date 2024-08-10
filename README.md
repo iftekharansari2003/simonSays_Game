@@ -14,7 +14,7 @@ Provides a fun, user-friendly game that appeals to all ages.
 - [Acknowledgments](#acknowledgments)
 
 ## Preview
-![preview.png](./assets/preview.png?raw=true)
+![preview.png](./assets/Preview.png?raw=true)
 
 ## Features
 - Flashing colored boxes with a sequence to memorize.
