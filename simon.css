@@ -40,3 +40,7 @@ body{
     background-color: red;
     background: red;
 }
+h2{
+    color: blue;
+    opacity: .7;
+}
