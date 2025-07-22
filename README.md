@@ -27,7 +27,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 - A modern web browser
-- Code editor (e.g., Visual Studio Code, Sublime Text)
+- Code editor (e.g., Visual Studio Code, Sublime Text) 
 
 ### Installation
 1. Clone the repository:
