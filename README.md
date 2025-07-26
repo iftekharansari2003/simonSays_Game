@@ -18,7 +18,7 @@ Provides a fun, user-friendly game that appeals to all ages.
 
 ## Features
 - Flashing colored boxes with a sequence to memorize.
-- Interactive gameplay with clickable colored boxes.
+- Interactive gameplay with clickable colored boxes .
 - Score tracking for the current session and the highest score.
 - User-friendly game that appeals to all ages.
 
